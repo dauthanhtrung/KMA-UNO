@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 03:30:35 PM On 13/11/2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ARDUINO_UNO-KMA.PrjPcb]
+   Generated File[BOM_ARDUINO_UNO-KMA_2024-11-13.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 03:30:45 PM On 13/11/2024

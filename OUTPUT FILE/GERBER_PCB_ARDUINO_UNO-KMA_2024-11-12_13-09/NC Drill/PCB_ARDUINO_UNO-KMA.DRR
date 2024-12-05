@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_ARDUINO_UNO-KMA.PcbDoc   12/11/2024  01:09:25 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : PCB_ARDUINO_UNO-KMA-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : PCB_ARDUINO_UNO-KMA-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             238       PTH        671.26mm (26.43inch)
+T2      0.4mm (16mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T3      0.5mm (20mil)                                             Slot              2         PTH        11.50mm (0.45inch)
+T4      0.6mm (24mil)                                             Slot              2         PTH        15.43mm (0.61inch)
+T5      0.8mm (31mil)                                             Round             4         PTH        20.95mm (0.82inch)
+T6      0.9mm (35mil)                                             Round             50        PTH        302.52mm (11.91inch)
+T7      1mm (39mil)                                               Slot              3         PTH        31.93mm (1.26inch)
+T8      2.3mm (91mil)                                             Round             2         PTH        12.04mm (0.47inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              302
+
+Total Processing Time (hh:mm:ss) : 00:00:00
